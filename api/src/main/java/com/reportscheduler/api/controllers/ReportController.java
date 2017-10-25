@@ -1,5 +1,5 @@
 package com.reportscheduler.api.controllers;
 
-public class ReportsController {
+public class ReportController {
 
 }
